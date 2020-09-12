@@ -10,7 +10,7 @@ The bot overview and main menu
 -
 - ![Overview](overview.jpg)
 
-- The bot got jokes too. The jokes are fetched from an API, and are randomly generated
+- The bot got jokes too. The jokes are fetched from an API, https://icanhazdadjoke.com,  and are randomly generated
 -
 - ![Joke](joke.jpg)
 
