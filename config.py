@@ -1,11 +1,11 @@
 # config.py
 
-BOT_TOKEN = '1098880961:AAH5wKe_HZxjjIX8iDHEqZgaIhXK7XYgQsU'
+BOT_TOKEN = 'bot token'
 
-BOT_LINK = 'https://t.me/Testing420bot'
-GROUP_LINK = 'https://t.me/zimenice420'
-OWNER_LINK = 'https://t.me/JGMwas'
+BOT_LINK = 'test channel'
+GROUP_LINK = 'group link'
+OWNER_LINK = 'owner link'
 
-ORDER_CHANNEL = -1001264344486
-CUSTOMER_CHANNEL = -1001264344486
-ITEMS_CHANNEL = -1001248666344
+ORDER_CHANNEL = -100channelid
+CUSTOMER_CHANNEL = -100customerchannelid
+ITEMS_CHANNEL = -100itemschannelid
