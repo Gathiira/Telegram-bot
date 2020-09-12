@@ -4,8 +4,7 @@ import math
 
 from Language import Lang
 
-ADMINS = [1012971687,127260897]
-# 1012971687
+ADMINS = [] # add admin ids here
 
 db = DatabaseManager()
 
