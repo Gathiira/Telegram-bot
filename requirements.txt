@@ -2,5 +2,5 @@ python-telegram-bot==11.1.0
 requests==2.22.0
 tabulate==0.8.6
 PyMySQL==0.9.3
-Flask==1.1.1
+Flask==2.2.5
 PyTelegramBotAPI==2.2.3
